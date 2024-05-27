@@ -1,0 +1,2 @@
+Basicamente, significa que a linguagem de programação trata a função como um outro tipo qualquer, que pode ser manipulado, armazenado e etc.
+
